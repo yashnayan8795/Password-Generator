@@ -43,7 +43,11 @@ The application also integrates clipboard functionality for easy copying of gene
     -Specify any characters to exclude.
     -Click "Generate Password" to create a password.
     -Copy the generated password to the clipboard using the "Copy to Clipboard" button.
-    
+
+#ScreenShot
+
+<img width="261" alt="image" src="https://github.com/yashnayan8795/Password-Generator/assets/115628084/233582f9-6b88-497f-a89a-c1825eee4a36">
+
 #License
 
   This project is licensed under the MIT License - see the LICENSE file for details.
